@@ -1,6 +1,6 @@
 # Django and Node.js for a video hosting mobile app 
 
-#Detailed plan to get you started:
+## Detailed plan to get you started:
 
 ### 1. Project Setup
 
